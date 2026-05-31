@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "The kintsugi principle for agents — failures make artifacts MORE valuable, not less"
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-kintsugi-runtime"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
